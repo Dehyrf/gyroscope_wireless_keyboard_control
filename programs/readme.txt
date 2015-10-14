@@ -1,0 +1,1 @@
+The reciever needs to be running on an arduino with native keyboard support like an arduino leonardo, and the transmitter can run on basically anything but might have some issues with wireless transmitter on a mega
